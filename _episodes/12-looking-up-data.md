@@ -1,7 +1,7 @@
 ---
 title: "Advanced OpenRefine functions"
-teaching: 20
-exercises: 10
+teaching: 10
+exercises: 5
 questions:
 - "How do I fetch data from an Application Programming Interface (API) to be used in OpenRefine?"
 - "How do I reconcile my data by comparing it to authoritative datasets"
